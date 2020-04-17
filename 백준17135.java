@@ -6,11 +6,6 @@ import java.io.OutputStreamWriter;
 import java.math.BigInteger;
 import java.util.*;
 
-class Point {
-
-	int y;
-	int x;
-}
 public class Main {
 
 	static int N;
